@@ -4,19 +4,7 @@
 
 Please find slides for Manual Genome Curation overview and Asssembly Metrics at [Session_4_Challenging_genomes_Sex_chroms.pdf](docs/Session_4_Challenging_genomes_Sex_chroms.pdf).
 
-Gitpod: https://gitpod.io/new/#https://github.com/sanger-tol/rapid-curation
-
-If you are using GitPod, before clicking in 'Continue' choose 'Large' for the third option (class). Then click 'Continue'.
-
-It will take around 2-3 minutes for Gitpod to load. After that, type in the terminal: 
-
-```
-export PATH=/workspace/mambaforge/bin/:$PATH
-
-```
-
-
-Now you need to download the data we are going to use in this session. You can download it to GitPod or locally to your laptop, as follows:
+Please download the data we are going to use in this session, as follows:
 
 
 ```
@@ -29,7 +17,6 @@ Then:
 tar xvfJ Day_4.tar.xz
 ```
 
-If you are locally, you also need to download ```rapid_curation ``` scripts from here: https://github.com/sanger-tol/rapid-curation/blob/main/
 
 ## For this session, we will focus on microchromosomes.
 
