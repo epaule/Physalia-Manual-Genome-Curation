@@ -18,7 +18,7 @@ Choose one of the following to start:
 - icPolPter2 (coleoptera)
 - ieProBifi1 (ephemeroptera): can you spot something unexpected on the HiC map, maybe something that you try to fix, but it never looks right?
 
-Check if these genomes belong to homogametic or heterogametic samples and try to identify and assign sex chromosomes. You may use Nucmer output files or PacBio reads coverage.
+Check if these genomes belong to homogametic or heterogametic samples and try to identify and assign sex chromosomes. You may use Nucmer output files or PacBio reads coverage. For Nucmer, use Dot viewer to visualize the results at: https://dot.sandbox.bio
 
 > [!IMPORTANT]
 > At the end of the curation process, check if you:
