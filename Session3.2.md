@@ -26,7 +26,7 @@ Choose one of the following to work on:
 
 - ilPhyMess1 (lepidoptera): Does this sample come from the homo or heterogametic sex? Which would the sex chromosomes be?
 - ilProSehe1 (lepidoptera): Does this sample come from the homo or heterogametic sex? Check for Nucmer alignment for sex chromosome identification.
-- laPotLuce1 (monocot): what do you the faded paralell lines among some of the chromosomes would be?
+- laPotLuce1 (monocot): what do you think the faded paralell lines among some of the chromosomes would be?
 
 
 > [!TIP]
@@ -54,11 +54,9 @@ pretext-to-asm -o <fasta>.fa -a <uncurated_fasta>.fa -p <curated_agp_file>.agp_1
 
 ```
 
-```
 -o: output file name (it must end in '.fa') 
-```
 
-Let's assume you chose to name your output file as 'curated'. Then, the main output files will be:
+Then, the main output files will be:
 
 **A. Single haplotype:**
 
