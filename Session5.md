@@ -3,20 +3,7 @@
 **Session 5: Challenging genomes to curate and strategies to deal with them - Part 2**
 
 
-Gitpod: https://gitpod.io/new/#https://github.com/sanger-tol/rapid-curation
-
-If you are using GitPod, before clicking in 'Continue' choose 'Large' for the third option (class). Then click 'Continue'.
-
-It will take around 2-3 minutes for Gitpod to load. After that, type in the terminal: 
-
-```
-export PATH=/workspace/mambaforge/bin/:$PATH
-
-```
-
-
-Now you need to download the data we are going to use in this session. You can download it to GitPod or locally to your laptop, as follows:
-
+Now you need to download the data we are going to use in this session.
 
 ```
 wget https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_5.tar.xz
@@ -28,23 +15,10 @@ Then:
 tar xvfJ Day_5.tar.xz
 ```
 
-If you are locally, you also need to download ```rapid_curation ``` scripts from here: https://github.com/sanger-tol/rapid-curation/blob/main/
-
 
 
 ## Today, we are working on dual haplotype maps.
 
-Below we have 3 challenging genomes and you can choose any of them to work on today. All of them are dual haplotype curation maps:
-
-- bCalBor7: bird asembly with MicroFinder results already on the top of the map ``` (bCalBor1_hap1_micros_hr.pretext) ``` and ``` (bCalBor1_hap2_micros_hr.pretext) ```
-
-> [!IMPORTANT]
-> 1. Karyotype n = 40. 
-> 2. The hap1 and hap2 maps should be curated side-by-side. You will need to have two PretextView windows side-by-side.
-> 3. Look carefully at the sex chroms, does anything catch you attention? Tip: put them side-by-side in the map.
-
-- drUrtDioi1: tetrapoid dicot plant genome ``` (out.pretext) ```. Try to solve this puzzle!
-- laLemMinu1: monocot plant genome with phasing issues and misassemblies ``` (laLemMinu1_4_normal.pretext) ``` . Pacience leads to perfection!
 - pySymPilo4: protist with poor HiC and high chromosome number. ``` pySymPilo4_2_normal.pretext ```. Give a try on this puzzle!
 
 
