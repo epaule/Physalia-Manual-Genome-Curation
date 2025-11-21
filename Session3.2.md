@@ -25,8 +25,14 @@ tar xvfJ Day_3.tar.xz
 Choose one of the following to work on:
 
 - ilPhyMess1 (lepidoptera): Does this sample come from the homo or heterogametic sex? Which would the sex chromosomes be?
-- ilProSehe1 (lepidoptera): Does this sample come from the homo or heterogametic sex? Check for Nucmer alignment for sex chromosome identification. For Nucmer, use Dot viewer to visualize the results at: https://dot.sandbox.bio
+- ilProSehe1 (lepidoptera): Does this sample come from the homo or heterogametic sex? Check for Nucmer alignment for sex chromosome identification. For Nucmer, use Dot viewer to visualize the results at: https://dot.sandbox.bio.
 The Nucmer results files are here: https://drive.google.com/drive/folders/1pw-bQ5Aj6I-ooll6YHGpOiJjJC552hWW?usp=sharing
+
+> [!TIP]
+> The canonical Z should be one of the large scaffolds and in this case, it doesn't show any alignments.
+> Even using a species from the same genus as a comparator and Z chromososmes being usually very conserved, there is the chance of many rearrangements to happen.
+
+
 - laPotLuce1 (monocot): what do you think the faded paralell lines among some of the chromosomes would be?
 
 
