@@ -20,7 +20,7 @@ tar xvfJ Day_3.tar.xz
 
 
 
-## Now we have 3 dual curation maps for curation:
+## Now we have 3 dual haplotype curation maps for curation:
 
 Choose one of the following to work on:
 
