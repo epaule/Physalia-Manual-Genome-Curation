@@ -23,8 +23,8 @@ tar xvfJ Day_4.tar.xz
 
 Give it a try:
 
--ddHypPerf1: polyploid plant
--ilEreMont1: looks to be a straitforward lepidoptera, but you may find an interesting evolutionary feature on this one.
+- ddHypPerf1: polyploid plant
+- ilEreMont1: looks to be a straitforward lepidoptera, but you may find an interesting evolutionary feature on this one.
 
 
 > [!IMPORTANT]
