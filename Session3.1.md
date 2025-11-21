@@ -2,7 +2,7 @@
 
 **Session 3: Beginning manual curation (Single haplotype curation)**
 
-Please find today slides at docs/Session_3_Beginning Manual Curation.pdf.
+Please find today's slides at docs/Session_3_Beginning Manual Curation.pdf.
 
 Now you need to download the data we are going to use in this session. You can download it to GitPod or locally to your laptop, as follows:
 ```
