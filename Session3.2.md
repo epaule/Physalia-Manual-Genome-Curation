@@ -29,8 +29,8 @@ Choose one of the following to work on:
 The Nucmer results files are here: https://drive.google.com/drive/folders/1pw-bQ5Aj6I-ooll6YHGpOiJjJC552hWW?usp=sharing
 
 > [!TIP]
-> The canonical Z should be one of the large scaffolds and in this case, it doesn't show any alignments.
-> Even using a species from the same genus as a comparator and Z chromososmes being usually very conserved, there is the chance of many rearrangements to happen.
+> 1. The canonical Z should be one of the large scaffolds and in this case, it doesn't show any alignments.
+> 2. Even using a species from the same genus as a comparator and Z chromossomes being usually very conserved, there is always the chance of many rearrangements to happen.
 
 
 - laPotLuce1 (monocot): what do you think the faded paralell lines among some of the chromosomes would be?
