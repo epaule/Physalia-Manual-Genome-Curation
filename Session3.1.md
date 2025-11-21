@@ -16,7 +16,7 @@ Choose one of the following to start:
 
 - icSchPect1 (coleoptera)
 - icPolPter2 (coleoptera)
-- ilCycPunc2 (lepdopitera)
+- ieProBifi1 (ephemeroptera)
 
 Check if these genomes belong to homogametic or heterogametic samples and try to identify and assign sex chromosomes. You may use Nucmer output files or PacBio reads coverage.
 
@@ -26,8 +26,3 @@ Check if these genomes belong to homogametic or heterogametic samples and try to
 > 2. Added metadata
 > 3. Painted chromosomes
 > 4. Generated AGP file
-
-In case you have some remaining time, choose one of the following assemblies to give it a try:
-- drPruBrig1 (dicot)
-- gfRusFagi1 (fungi)
-- odPhaVent3 (sponge). Did you find anything suspicious in your map, such as potential contamination?
