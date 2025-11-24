@@ -4,7 +4,7 @@
 
 Please find today's slides at docs/Session_3_Beginning Manual Curation.pdf.
 
-Now you need to download the data we are going to use in this session. You can download it to GitPod or locally to your laptop, as follows:
+Now you need to download the data we are going to use in this session. You can download from [here](https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_2.tar.x) locally to your laptop, as example:
 ```
 wget https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_2.tar.xz
 tar xvfJ Day_2.tar.xz
