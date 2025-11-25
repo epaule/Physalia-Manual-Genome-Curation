@@ -5,19 +5,13 @@
 Please find slides for Manual Genome Curation overview and Asssembly Metrics at [Session_3.2_Generating_curated_fasta.pdf](Session_3.2_Generating_curated_fasta.pdf).
 
 
-Please download the data we are going to use in this session, as follows:
+Please download the data we are going to use in this session from [here](https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_3.tar.xz). As example like that:
 
 
 ```
 wget https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_3.tar.xz
-```
-
-Then:
-
-```
 tar xvfJ Day_3.tar.xz
 ```
-
 
 
 ## Now we have 3 dual haplotype maps for curation:
