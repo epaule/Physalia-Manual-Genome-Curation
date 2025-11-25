@@ -2,7 +2,7 @@
 
 **Session 3: Beginning manual curation (Single haplotype curation)**
 
-Please find today's slides at docs/Session_3_Beginning Manual Curation.pdf.
+Please find today's slides at [Session_3_Beginning Manual Curation.pdf](https://github.com/epaule/Physalia-Manual-Genome-Curation/blob/main/docs/Session_3_Beginning%20Manual%20Curation.pdf).
 
 Now you need to download the data we are going to use in this session. You can download from [here](https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_2.tar.xz) locally to your laptop and unzip it. As example:
 ```
