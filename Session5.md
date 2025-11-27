@@ -21,7 +21,7 @@ tar xvfJ Day_5.tar.xz
 - pySymPilo4: protist with poor HiC and high chromosome number. ``` pySymPilo4_2_normal.pretext ```. Give a try on this puzzle!
 - xbMysUnda1: mollusc with very good HiC, but a not very pretty phasing. See if you can recognize and fix some of the wrong phasing regions.
 
-The fasta files for pretext-to-asm are can be found here: https://drive.google.com/drive/folders/1_5AcmOaxSGtj7iyEfcHDVAAZIj_tWUXp?usp=sharing
+The fasta files for pretext-to-asm can be found here: https://drive.google.com/drive/folders/1_5AcmOaxSGtj7iyEfcHDVAAZIj_tWUXp?usp=sharing
 
 **Which were the main difficulties you found while working on these genomes?**
 
