@@ -18,7 +18,7 @@ tar xvfJ Day_4.tar.xz
 
 Give it a try:
 
-- ddHypPerf1: polyploid plant
+- ddHypPerf1: polyploid plant. Can you spot any variation among the 4 haplotypes?
 - ilEreMont1: looks to be a straitforward lepidoptera, but you may find an interesting evolutionary feature on this one.
 
 
