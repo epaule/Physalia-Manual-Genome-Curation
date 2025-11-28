@@ -3,15 +3,10 @@
 **Session 5: Challenging genomes to curate and strategies to deal with them - Part 2**
 
 
-Now you need to download the data we are going to use in this session.
+Now you need to download the [data](https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_5.tar.xz we are going to use in this session.
 
 ```
 wget https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_5.tar.xz
-```
-
-Then:
-
-```
 tar xvfJ Day_5.tar.xz
 ```
 
