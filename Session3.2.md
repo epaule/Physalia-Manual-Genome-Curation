@@ -19,13 +19,16 @@ tar xvfJ Day_3.tar.xz
 Choose one of the following to work on:
 
 - laPotLuce1 (monocot): what do you think the faded paralell lines among some of the chromosomes would be?
-- ilPhyMess1 (lepidoptera): Does this sample come from the homo or heterogametic sex? Which would the sex chromosomes be?
+- ilPhyMess1 (lepidoptera):
+Does this sample come from the homo or heterogametic sex?
+Which would the sex chromosomes be?
+We have a pair of extra numerical chromosomes, known as B chromosomes, which usually are mostly heterochromatic. Can you spot them?
 - ilProSehe1 (lepidoptera): Does this sample come from the homo or heterogametic sex? Check for Nucmer alignment for sex chromosome identification. For Nucmer, use Dot viewer to visualize the results at: https://dot.sandbox.bio.
-The Nucmer results files are here: https://drive.google.com/drive/folders/1pw-bQ5Aj6I-ooll6YHGpOiJjJC552hWW?usp=sharing
+
 
 > [!TIP]
-> 1. The canonical Z should be one of the large scaffolds and in this case, it doesn't show any alignments.
-> 2. Even using a species from the same genus as a comparator and Z chromossomes being usually very conserved, there is always the chance of many rearrangements to happen.
+> 1. The canonical Z should be one of the large scaffolds and in some cases, it doesn't show any alignments.
+> 2. Even using a species from the same genus as a comparator and Z chromossomes being usually highly conserved, there is always the chance of some rearrangements to happen, such as fusions and fissions.
 
 
 
@@ -38,9 +41,10 @@ The Nucmer results files are here: https://drive.google.com/drive/folders/1pw-bQ
 > [!IMPORTANT]
 > At the end of the curation process, check if you:
 > 1. Made all the necessary rearrangements in the map
-> 2. Added metadata
-> 3. Painted chromosomes
-> 4. Generated AGP file
+> 2. Assigned sex chromosomes
+> 3. Added metadata
+> 4. Painted chromosomes
+> 5. Generated AGP file
 
 ## Generating fasta files for single and dual curation maps
 
@@ -64,6 +68,9 @@ Then, the main output files will be:
 <ID>.1.primary.curated.fa
 <ID>.1.additional_haplotigs.curated.fa
 <ID>.1.primary.chromosome.list.csv
+<ID>.chr_report.csv
+<ID>.info.yaml
+<ID>.log
 
 ```
 
@@ -74,6 +81,9 @@ Then, the main output files will be:
 <ID>.hap1.1.primary.chromosome.list.csv
 <ID>.hap2.1.primary.curated.fa
 <ID>.hap2.1.primary.chromosome.list.csv
+<ID>.chr_report.csv
+<ID>.info.yaml
+<ID>.log
 
 ```
 
