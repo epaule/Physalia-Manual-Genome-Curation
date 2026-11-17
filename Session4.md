@@ -4,11 +4,11 @@
 
 Please find slides for Manual Genome Curation overview and Asssembly Metrics at [Session_4_Challenging_genomes_Sex_chroms.pdf](docs/Session_4_Challenging_genomes_Sex_chroms.pdf).
 
-Please download the data we are going to use in this session from [here](https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_4.tar.xz), or as example like:
+Please download the data we are going to use in this session from [here](https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_4.tar.gz), or as example like:
 
 
 ```
-wget https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_4.tar.xz
+wget https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_4.tar.gz
 tar xvfJ Day_4.tar.xz
 ```
 
@@ -32,4 +32,3 @@ Give it a try:
 ## Generating the curated fasta file
 
 Have a look at Session3.2 to check how to generate the curated fasta files.
-
