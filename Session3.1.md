@@ -6,8 +6,8 @@ Please find today's slides at [Session_3_Beginning Manual Curation.pdf](https://
 
 Now you need to download the data we are going to use in this session. You can download it from [here](https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_2.tar.xz) locally to your laptop and unzip it. As example:
 ```
-wget https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_2.tar.xz
-tar xvfJ Day_2.tar.xz
+wget https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_2.tar.gz
+tar xvfJ Day_2.tar.gz
 ```
 
 **Start practicing manual curation on 3 insect genomes. These will be all single haplotype maps.**
