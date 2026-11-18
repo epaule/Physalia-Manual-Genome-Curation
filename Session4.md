@@ -9,7 +9,7 @@ Please download the data we are going to use in this session from [here](https:/
 
 ```
 wget https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_4.tar.gz
-tar xvfJ Day_4.tar.xz
+tar xvfz Day_4.tar.xz
 ```
 
 
