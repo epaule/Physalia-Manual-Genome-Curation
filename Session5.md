@@ -7,7 +7,7 @@ Now you need to download the [data](https://asg_hubs.cog.sanger.ac.uk/physalia_w
 
 ```
 wget https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_5.tar.gz
-tar xvfJ Day_5.tar.gz
+tar xvfz Day_5.tar.gz
 ```
 
 
