@@ -2,7 +2,7 @@
 
 **Session 3.2: Dual Curation and curated fasta file generation**
 
-Please find slides for Manual Genome Curation overview and Asssembly Metrics at [Session_3.2_Generating_curated_fasta.pdf](Session_3.2_Generating_curated_fasta.pdf).
+Please find slides for today at: [Session_3.2_Generating_curated_fasta.pdf](Session_3.2_Generating_curated_fasta.pdf).
 
 
 Please download the data we are going to use in this session from [here](https://asg_hubs.cog.sanger.ac.uk/physalia_workshop/Day_3.tar.gz). As example like that:
